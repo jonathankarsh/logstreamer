@@ -27,6 +27,7 @@ All bytes that are written to it are split by newline and then prefixed to your 
 ## Test
 
 ```bash
+$ cd src/pkg/logstreamer/
 $ go test
 ```
 
